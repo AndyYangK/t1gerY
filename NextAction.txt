@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 2007 chinese share market
-=======
-weichat public account
->>>>>>> origin/master
